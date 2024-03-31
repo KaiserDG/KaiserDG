@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @KaiserDG
-- 👀 I’m interested in networking
-- 🌱 I’m currently learning Python
-- ⚡ fact: I WOULD LOVE TO WORK PROGRAMMING ARTIFICIAL INTELLIGENCE AND AUTOMATION
+Hello world 👋, my name is Gustavo.
 
-<!---
-KaiserDG/KaiserDG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a dev from Brazil. Fluent in Portuguese and and studying English, I specialize in python with a great interest in artificial intelligence programming.
